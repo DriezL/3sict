@@ -7,7 +7,7 @@ title: 3sict
 subtitle: 'developer .net'
 description: 'senior freelance developer'
 keywords: .net
-author: Dries de Groot
+author:
 language: nl
 timezone: Europe/Amsterdam
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: 3sictTheme
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
