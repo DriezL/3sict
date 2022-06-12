@@ -1,7 +1,7 @@
 ---
 title: Freelance developer .net
 ---
-Coderen van software sinds 1998. Een lange historie van opdrachten gedaan en sinds juni 2022 ben ik voor mezelf begonnen. Waarom? Ik vind het fijn om in vrijheid te doen wat ik leuk vind.<img src="../images/dries.png" title="dries" style="width:150px;float:right">
+Coderen van software sinds 1998. Van backend tot frontend, van databases tot cloud.<img src="../images/dries.png" title="dries" style="width:150px;float:right">
 
 Specialisme ligt in het ontwikkelen van:
 - webapplicaties en services
