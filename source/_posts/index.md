@@ -6,6 +6,7 @@ Coderen van software sinds 1998. Van backend tot frontend, van databases tot clo
 Specialisme ligt in het ontwikkelen van:
 - webapplicaties en services
 - database-oplossingen met backend
+- Microsoft Dynamics CRM CE in combinatie met het power platform
 
 Voor meer informatie of een vraag, neem gerust contact op.
 
